@@ -23,8 +23,8 @@
     "vite": "^4.4.2"
   },
   "ampt": {
-    "org": "",
-    "app": "sveltekit"
+    "app": "ampt-sveltekit-demo",
+    "org": "github651666"
   },
   "type": "module",
   "dependencies": {
